@@ -2,7 +2,7 @@
 title: Home
 description: Homepage
 published: 1
-date: 2024-06-20T21:52:07.797Z
+date: 2024-06-20T21:52:13.150Z
 tags: public
 editor: markdown
 dateCreated: 2024-06-20T20:32:51.204Z
@@ -17,3 +17,4 @@ If you are looking for more direct support, please join the [Discord Server](htt
 ## Important Links
 
 > Coming soon
+{.is-info}
