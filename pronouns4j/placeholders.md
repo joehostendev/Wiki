@@ -2,7 +2,7 @@
 title: Pronouns4j | Placeholders
 description: Placeholders used throughout Pronouns4j
 published: 1
-date: 2024-09-06T21:44:46.764Z
+date: 2024-09-06T21:44:49.285Z
 tags: pronouns4j, public
 editor: markdown
 dateCreated: 2024-06-21T12:26:14.359Z
