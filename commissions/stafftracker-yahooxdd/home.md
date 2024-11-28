@@ -2,7 +2,7 @@
 title: Staff Tracker
 description: Thank you for ordering from me! This is the documentation for your order.
 published: 1
-date: 2024-11-28T17:29:13.814Z
+date: 2024-11-28T17:32:56.599Z
 tags: commissions-yahooxdd
 editor: markdown
 dateCreated: 2024-11-25T22:52:05.884Z
@@ -171,7 +171,7 @@ message-command: /msg
 ```
 ## Additional Information
 * Player UUIDs:
-To track specific players, you can get their UUID from the server using /uuid <player_name>.
+To track specific players, you can get their UUID from the server using by going to https://namemc.com/search?q=USERNAME 
 
 * Webhook Format:
 The webhook will send messages to your Discord server in a readable format, detailing the command used, the player executing it, and any additional information like reason or time for punishments.
